@@ -33,13 +33,7 @@
             {
                 // for hash if(set.contains(grid[i][j]))
                 if(set[grid[i][j]] != 0)
-                {
-                    ans[0]=grid[i][j];
-                }else{
-                    // for hash set.add(grid[i][j]);
-                    set[grid[i][j]]=1;
-                    currentsum += grid[i][j];
-                }
+              x
             }
         }
 
